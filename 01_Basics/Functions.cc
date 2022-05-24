@@ -10,6 +10,7 @@ int user_input()
     int number;
     std::cout << "Please enter a number: ";
     std::cin >> number;
+    std::cin >> number;
 
     return number;
 }
